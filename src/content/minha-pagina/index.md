@@ -1,7 +1,7 @@
 ---
 path: '/blog/minha-pagina'
 title: 'Minha pagina!'
-description: 'Bem vindo a minha pagina'
+description: 'Bem vindo a minha pagina com foto'
 categoria: 'teste'
 price: 10
 ---
